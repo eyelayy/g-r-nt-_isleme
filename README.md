@@ -1,1 +1,1 @@
-# g-r-nt-_isleme
+# goruntu_isleme
